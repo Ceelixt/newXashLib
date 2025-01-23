@@ -1,4 +1,6 @@
-XashLib - it's a website where you can find a lot of games, mods, based on Xash3D game engine you can play for free
+XashLib - feel easy to play anything.
 
+I am sure it's not a secret that you can play Half-Life and other goldsrc games on xash3d engine for free, but for that you need to replace dlls, patch map files and do many other boring things. So I decided to make a little base of such games and mods for myself. That's it.
 
-This is my first project at all and I don't know what I need write here. This site is for a very narrow circle of people for now, but who knows?
+If you have somehow found this - idk, i just doing it from boredom.
+
